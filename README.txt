@@ -46,9 +46,9 @@ he had to explain that it was not the real issue that they were facing. Hence he
 and in my opinion we could not remove it. My first reactiong was to understand his reasoning completely before responding. Once I understood his 
 reasoning I brought up my point that we should make an informed decision before coming to a conclusion. I reached out to our TPM and asked him if 
 the information was critical to any set of users ? He said all the seasoned users need this information to be presented in the UI and it was not 
-a great idea to not show it. After some further communication with the confused customers I found out that they were new customers and lacked training
-in specifics. Hence to fit both the usecases, we muted the information so that its there but not highlighted and also added a helper doc link to 
-explain little bit more about it. Hence my coworker was happy about the solution and so were the customers. 
+a great idea to not show it. After some further communication with the confused customers I found out that they were new customers and lacked 
+training in specifics. Hence to fit both the usecases, we muted the information so that its there but not highlighted and also added a helper doc 
+link to explain little bit more about it. Hence my coworker was happy about the solution and so were the customers. 
 
 
 ============================================================================================================================================
@@ -56,6 +56,6 @@ explain little bit more about it. Hence my coworker was happy about the solution
 
 Q. Tell me about a time you failed? Could be failed to meet a sprint timeline?
 Ans. I failed to meet a sprint timeline for a feature I was owning. The feature involved work both on backend services and frontend. 
-The UI was depended on the service work to be finished. I did not communcate this well to my teammate and he started the services work in the second 
-week of the sprint which left me with very little time to finish the UI implementation and complete end-to-end testing of the feature. 
+The UI was depended on the service work to be finished. I did not communcate this well to my teammate and he started the services work in the 
+second week of the sprint which left me with very little time to finish the UI implementation and complete end-to-end testing of the feature. 
 Had I communicated well he could have started to work on that first and I would have had enough time to implement and test the feature in the UI. 
