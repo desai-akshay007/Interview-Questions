@@ -7,8 +7,15 @@ services. I was in two minds as I was liking the UI work I was doing but also wa
 Later someone else took the ownership and I regret passing up on the opportunity. Though later I onboarded 
 with the backend services codebase and helped out with smaller tickets and code reviews. 
 
-Q. Tell about an experience on a feature, or dealing with an issue? Explain the background, the trouble and how it resolved? Reflect on what your learned from it and how that changed your decides going forward?
-Ans. I was asked to implement a feature which was very losely scoped and requirements were not clearly defined. I was made aware of a certain deadline hence I jumped onto working on the feature without actually understanding or myself defining the scope. The feature required me to gain additional knowledge and understanding about certain statistics and math which took additional time. After gaining full understaing of the ask, I ended up commiting more than I could finish in the given deadline. But as I had commited to it and it was a critical feature, I had to work late hours and weekends to finish the feature implementation in time. After reflecting from that experience I made sure that I should first completely understood and defined the scope and requirements before committing to finishing it in a certain time.
+Q. Tell about an experience on a feature, or dealing with an issue? Explain the background, the trouble and how it resolved? 
+Reflect on what your learned from it and how that changed your decides going forward?
+Ans. I was asked to implement a feature which was very losely scoped and requirements were not clearly defined. 
+I was made aware of a certain deadline hence I jumped onto working on the feature without actually understanding or myself defining the scope. 
+The feature required me to gain additional knowledge and understanding about certain statistics and math which took additional time. 
+After gaining full understaing of the ask, I ended up commiting more than I could finish in the given deadline. 
+But as I had commited to it and it was a critical feature, I had to work late hours and weekends to finish the feature implementation in time. 
+After reflecting from that experience I made sure that I should first completely understood and defined the scope and requirements before 
+committing to finishing it in a certain time.
 
 Q. What is your greatest accomplishment?
 Ans. My greatest accomplishment was when I received an "Excellence Award" for being customer centric, identifying the gaps in the tool and innovating to fill the gaps. For example our tool did not have a proper customer feedback mechanism or process in place. All our customer feedback used to come through a single channel which was our Experiment Managment team. Earlier the process was tedious and was hard to get direct customer feedback which in turn caused slower tool improvements. 
