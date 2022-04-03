@@ -18,7 +18,7 @@ I was made aware of a certain deadline hence I jumped onto working on the featur
 The feature required me to gain additional knowledge and understanding about certain statistics and math which took additional time. 
 After gaining full understaing of the ask, I ended up commiting more than I could finish in the given deadline. 
 But as I had commited to it and it was a critical feature, I had to work late hours and weekends to finish the feature implementation in time. 
-After reflecting from that experience I made sure that I should first completely understood and defined the scope and requirements before 
+After reflecting from that experience I made sure that I should first completely understand and defined the scope and requirements before 
 committing to finishing it in a certain time.
 
 ============================================================================================================================================
