@@ -95,10 +95,11 @@ to be addressed for the work I am doing so that I can work independently without
 other team members if I am blocked. Connecting with people better and understanding the product and the company.
 
 3 months down the line I should have enough understanding that I can now start to closely watch our work, processes and try to identify any pain 
-points or improvements where I can provide suggestions, make improvements and gain feedback. At this point I should be able to clearly able set 
-my goals for the upcoming year. 
+points or improvements where I can provide suggestions, make improvements and gain feedback. At this point I should be clearly able set 
+some of my goals for the upcoming year. 
 
 6 months down the line I think I should be comfortable leading some key features / projects and be an integral member of the team who is able to 
 contribute in each aspect of the working of our team may it be process / code / or customer support. 
 
-End of each month I would reflect on the improvements I made and blockers I have that need to be addressed. 
+End of each month I would reflect on the improvements I made and blockers I have that need to be addressed and make sure I am communicating 
+that with you as well.
