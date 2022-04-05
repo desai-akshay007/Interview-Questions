@@ -58,4 +58,12 @@ Q. Tell me about a time you failed? Could be failed to meet a sprint timeline?
 Ans. I failed to meet a sprint timeline for a feature I was owning. The feature involved work both on backend services and frontend. 
 The UI was depended on the service work to be finished. I did not communcate this well to my teammate and he started the services work in the 
 second week of the sprint which left me with very little time to finish the UI implementation and complete end-to-end testing of the feature. 
-Had I communicated well he could have started to work on that first and I would have had enough time to implement and test the feature in the UI. 
+Had I communicated well he could have started to work on that first and I would have had enough time to implement and test the feature in the UI.
+
+
+============================================================================================================================================
+
+Q. Why do you want to leave WM?
+Ans. I am Seeking new challenges/opportunities to gain more knowledge in the industry of working in different domains and teams. Plus I also want to experience a new environment given the fact that I have been in Walmart for close to 4.5 - 5 years.
+
+Q. 
