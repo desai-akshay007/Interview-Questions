@@ -64,11 +64,41 @@ Had I communicated well he could have started to work on that first and I would 
 ============================================================================================================================================
 
 Q. Why do you want to leave WM?
-Ans. I am Seeking new challenges/opportunities to gain more knowledge in the industry of working in different domains and teams. Plus I also want to experience a new environment given the fact that I have been in Walmart for close to 4.5 - 5 years.
+Ans. I am Seeking new challenges/opportunities to gain more knowledge in the industry of working in different domains and teams. Plus I also want to
+experience a new environment given the fact that I have been in Walmart for close to 4.5 - 5 years.
 
 ============================================================================================================================================
 
 Q. Why do you want to join SN?
 Ans. Well there are couple of reasons why I want to join Service Now 
-- First I see this opportunity as a way to contribute to an exciting/forward-thinking/fast-moving company whose SaaS solutions are widely used across the industry. 
-- Secondly the work environment. I spoke to couple of ex-collegues of mine who are now working at Service Now and they told me about how excited and happy they are to work in their respective teams. So if multiple team feedbacks are the same, then that speaks about how good the company culture is. Hence I would be excited to join Service Now and your team. 
+- First I see this opportunity as a way to contribute to an exciting/forward-thinking/fast-moving company whose SaaS solutions are widely 
+used across the industry. 
+- Secondly the work environment. I spoke to couple of ex-collegues of mine who are now working at Service Now and they told me about how 
+excited and happy they are to work in their respective teams. So if multiple team feedbacks are the same, then that speaks about how good 
+the company culture is. Hence I would be excited to join Service Now and your team. 
+
+============================================================================================================================================
+
+Q. What are your biggest pain points day-to-day at WM?
+Ans. I think one of the biggest pain point in my current role is attending meetings which arent too much relevant and I believe I could avoid some. 
+Plus being a developer I would want to have a balance of writing code and attending meetings. If asked for example := being invited to 2 standups ,
+one for the tool and one of the wider team everyday for an hour. Joining pre-planning meetings for other teams)
+
+============================================================================================================================================
+
+Q. what is your goal if you join in the first 1month, 3months, 6months after joining?
+Ans. In the initial couple of weeks I would like to consume and obsorbe as much knowledge as I can that is key to my role and understand how 
+the team works and its processses while getting the hang of the code and contributing.
+
+First month I would like to get better understanding of team’s internal and external customers. Look for bottlenecks or blockers that need 
+to be addressed for the work I am doing so that I can work independently without much input but keeping the communication going with you and 
+other team members if I am blocked. Connecting with people better and understanding the product and the company.
+
+3 months down the line I should have enough understanding that I can now start to closely watch our work, processes and try to identify any pain 
+points or improvements where I can provide suggestions, make improvements and gain feedback. At this point I should be able to clearly able set 
+my goals for the upcoming year. 
+
+6 months down the line I think I should be comfortable leading some key features / projects and be an integral member of the team who is able to 
+contribute in each aspect of the working of our team may it be process / code / or customer support. 
+
+End of each month I would reflect on the improvements I made and blockers I have that need to be addressed. 
