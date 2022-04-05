@@ -66,4 +66,9 @@ Had I communicated well he could have started to work on that first and I would 
 Q. Why do you want to leave WM?
 Ans. I am Seeking new challenges/opportunities to gain more knowledge in the industry of working in different domains and teams. Plus I also want to experience a new environment given the fact that I have been in Walmart for close to 4.5 - 5 years.
 
-Q. 
+============================================================================================================================================
+
+Q. Why do you want to join SN?
+Ans. Well there are couple of reasons why I want to join Service Now 
+- First I see this opportunity as a way to contribute to an exciting/forward-thinking/fast-moving company whose SaaS solutions are widely used across the industry. 
+- Secondly the work environment. I spoke to couple of ex-collegues of mine who are now working at Service Now and they told me about how excited and happy they are to work in their respective teams. So if multiple team feedbacks are the same, then that speaks about how good the company culture is. Hence I would be excited to join Service Now and your team. 
