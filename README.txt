@@ -102,4 +102,4 @@ some of my goals for the upcoming year.
 contribute in each aspect of the working of our team may it be process / code / or customer support. 
 
 End of each month I would reflect on the improvements I made and blockers I have that need to be addressed and make sure I am communicating 
-that with you as well.
+that with you as well. I always believe its better to over communicate than to under-communicate
